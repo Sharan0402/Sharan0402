@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning RAG(Retrieval Augmented Generation)
 - 📫 How to reach me : Email: vsharan0402@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Been playing the piano for 17 years for various bands , yet haven't given a Trinity Exam for any grade (No regrets though :) )
+- ⚡ Fun fact: Been playing the piano for 17 years for various bands , composed 13 pieces , yet cannot read the sheets :(
 
 <!---
 Sharan0402/Sharan0402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
